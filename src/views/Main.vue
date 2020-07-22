@@ -1,6 +1,5 @@
 <template>
     <div>
-
         <div class="position-relative">
             <!-- shape Hero -->
             <section class="section-shaped my-0">
@@ -223,7 +222,7 @@
                                     <polygon points="0,42 583,95 683,0 0,95" opacity=".2" class="fill-default"></polygon>
                                 </svg>
                                 <h4 class="display-3 font-weight-bold text-white">Design Philosophy</h4>
-                                <p class="lead text-italic text-white">On-chain verify, off-chain calculate <br> PoW, UTXO <br> Layer </p>
+                                <p class="lead text-italic text-white">On-chain verify, off-chain calculate <br> PoW, UTXO <br> Layered blockchain </p>
                             </blockquote>
                         </div>
                     </div>
@@ -232,8 +231,10 @@
                             <icon name="ni ni-world" class="mb-5" size="lg" type="warning" shadow rounded></icon>
 
                             <h3>Awesome Features</h3>
-                            <p class="lead">Custom encryption algorithm</p>
-                            <p class="lead">Use any kind of programming language that can be compiled into RISC-V.</p>
+                            <p class="lead">You can customize encryption algorithm, which may help to unlock new scenarios and enable new possibilities of blockchain.</p>
+                            <p class="lead">You can use any kind of programming language which can be compiled into RISC-V to write smart contract on CKB.</p>
+                            <p class="lead">You can use smart contracts flexibly, for example to achieve the “use-then-deploy” of code.</p>
+                            <p class="lead">Ownership of assets on CKB is always in hands of users, which facilitates stacking between different codes.</p>
                         </div>
                     </div>
                 </div>
@@ -274,15 +275,15 @@
                                 </div>
                                 <div class="pl-4">
                                     <h5 class="title text-success">Nervos RFCs</h5>
-                                    <ul>
+                                    <ul class="lead"><b>
                                         <li><a href="https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0009-vm-syscalls/0009-vm-syscalls.md" target="_blank">VM Syscalls</a></li>
                                         <li><a href="https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0019-data-structures/0019-data-structures.md" target="_blank">Data Structures</a></li>
                                         <li><a href="https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0021-ckb-address-format/0021-ckb-address-format.md" target="_blank">CKB Address Format</a></li>
                                         <li><a href="https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0022-transaction-structure/0022-transaction-structure.md" target="_blank">Transaction Structure</a></li>
                                         <li><a href="https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0024-ckb-system-script-list/0024-ckb-system-script-list.md" target="_blank">CKB System Scripts</a></li>
                                         <li><a href="https://talk.nervos.org/t/rfc-simple-udt-draft-spec/4333" target="_blank">Simple UDT Draft Spec</a></li>
-                                    </ul>
-                                    <a href="https://github.com/nervosnetwork/rfcs" class="text-success" target="_blank">Learn more</a>
+                                    </b></ul>
+                                    <a href="https://github.com/nervosnetwork/rfcs" class="text-success" target="_blank"><b>Learn more</b></a>
                                 </div>
                             </div>
                         </card>
@@ -294,14 +295,14 @@
                                 </div>
                                 <div class="pl-4">
                                     <h5 class="title text-warning">Blogs</h5>
-                                    <ul>
+                                    <ul class="lead"><b>
                                         <li><a href="https://medium.com/nervosnetwork/https-medium-com-nervosnetwork-cell-model-7323fca57571" target="_blank">Cell Model</a></li>
-                                        <li><a href="https://xuejie.space/2019_07_05_introduction_to_ckb_script_programming_validation_model/" target="_blank">Introduction to CKB Script Programming 1: Validation Model</a></li>
-                                        <li><a href="https://xuejie.space/2019_07_13_introduction_to_ckb_script_programming_script_basics/" target="_blank">Introduction to CKB Script Programming 2: Script Basics</a></li>
+                                        <li><a href="https://xuejie.space/2019_07_05_introduction_to_ckb_script_programming_validation_model/" target="_blank">Validation Model</a></li>
+                                        <li><a href="https://xuejie.space/2019_07_13_introduction_to_ckb_script_programming_script_basics/" target="_blank">Script Basics</a></li>
                                         <li><a href="https://talk.nervos.org/t/a-generic-payment-channel-construction-and-its-composability/4697" target="_blank">Generic Payment Channel</a></li>
                                         <li><a href="https://talk.nervos.org/t/ckb-version-control-and-blockchain-evolution/4819" target="_blank">CKB, Version Control and Blockchain Evolution</a></li>
-                                    </ul>
-                                    <a href="https://docs.ckb.dev/blog" class="text-warning">Learn more</a>
+                                    </b></ul>
+                                    <a href="https://docs.ckb.dev/blog" class="text-warning"><b>Learn more</b></a>
                                 </div>
                             </div>
                         </card>
@@ -319,25 +320,32 @@
             <div class="container pt-lg pb-100">
                 <div class="row text-center justify-content-center">
                     <div class="col-lg-10">
-                        <h2 class="display-3">Let's build something amazing on CKB</h2>
+                        <h1 class="display-3">Let's build something amazing on CKB</h1>
                         <p class="lead">Here is some great ideas</p>
                     </div>
                 </div>
-                <div class="row row-grid mt-5">
-                    <div class="col-lg-4">
+                <div class="row row-grid mt-5 text-center">
+                    <div class="col-lg-6">
                         <icon name="ni ni-settings" size="lg" gradient="white" shadow round color="primary"></icon>
-                        <h5 class="mt-3">Open Tx</h5>
-                        <p class="mt-3">open tx</p>
+                        <h3 class="mt-3">DeFi</h3>
+                        <p class="mt-3 lead"><b>DeFi is one of the hottest topics in the blockchain
+                            , but we should notice <a href="https://medium.com/nervosnetwork/the-smart-contract-risk-in-defi-c28e53b92f03">the risks of smart contracts in DeFi</a>.
+                            On CKB, the state is a first-class citizen, by decentralizing the state of a token, the damage of a bug in asset definition can be controlled.</b></p>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-6">
                         <icon name="ni ni-ruler-pencil" size="lg" gradient="white" shadow round color="primary"></icon>
-                        <h5 class="mt-3">NFT</h5>
-                        <p class="mt-3">NFT</p>
+                        <h3 class="mt-3">NFT</h3>
+                        <p class="mt-3 lead"><b>NFT is a very imaginative direction that encompasses collectibles,
+                            crypto assets such as CryptoKitty, virtual art, digitization of traditional assets,
+                            etc., and we are looking forward to see more experimentation and possibilities on CKB.</b></p>
                     </div>
-                    <div class="col-lg-4">
+                    <div style="height:400px"></div>
+                    <div class="col-lg-6">
                         <icon name="ni ni-atom" size="lg" gradient="white" shadow round color="primary"></icon>
-                        <h5 class="mt-3">DeFi</h5>
-                        <p class="mt-3">DeFi</p>
+                        <h3 class="mt-3">Open Tx</h3>
+                        <p class="mt-3 lead"><b><a href="https://talk.nervos.org/t/open-tx-protocol-brainstorm-1-otx-in-general/4010">Open Transaction (OTX)</a> is a deliberately constructed portion of transaction,
+                             which can be combined together to form a valid transaction. <a href="https://talk.nervos.org/t/open-tx-protocol-brainstorm-3-scenarios-analyzing-on-ckb/4144">With the Open Tx we can realize</a> flexible transaction fee charge model,
+                             Ethereum like smart contract invoking, layer 1.5 DEX, assets discounting, etc.</b></p>
                     </div>
                 </div>
             </div>
