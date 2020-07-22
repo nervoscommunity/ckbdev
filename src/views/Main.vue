@@ -209,37 +209,6 @@
                 </div>
             </div>
         </section>
-        <section class="section bg-secondary">
-            <div class="container">
-                <div class="row row-grid align-items-center">
-                    <div class="col-md-6">
-                        <div class="card bg-default shadow border-0">
-                            <img v-lazy="'img/theme/img-2-1200x1000.jpg'" class="card-img-top">
-                            <blockquote class="card-blockquote">
-                                <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95"
-                                     class="svg-bg">
-                                    <polygon points="0,52 583,95 0,95" class="fill-default"></polygon>
-                                    <polygon points="0,42 583,95 683,0 0,95" opacity=".2" class="fill-default"></polygon>
-                                </svg>
-                                <h4 class="display-3 font-weight-bold text-white">Design Philosophy</h4>
-                                <p class="lead text-italic text-white">On-chain verify, off-chain calculate <br> PoW, UTXO <br> Layered blockchain </p>
-                            </blockquote>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="pl-md-5">
-                            <icon name="ni ni-world" class="mb-5" size="lg" type="warning" shadow rounded></icon>
-
-                            <h3>Awesome Features</h3>
-                            <p class="lead">You can customize encryption algorithm, which may help to unlock new scenarios and enable new possibilities of blockchain.</p>
-                            <p class="lead">You can use any kind of programming language which can be compiled into RISC-V to write smart contract on CKB.</p>
-                            <p class="lead">You can use smart contracts flexibly, for example to achieve the “use-then-deploy” of code.</p>
-                            <p class="lead">Ownership of assets on CKB is always in hands of users, which facilitates stacking between different codes.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
         <section class="section section section-shaped my-0 overflow-hidden">
             <div class="shape shape-style-1 bg-gradient-warning shape-skew">
                 <span></span>
@@ -310,6 +279,39 @@
                 </div>
             </div>
         </section>
+        <div style="height:200px"></div>
+        <section class="section">
+            <div class="container">
+                <div class="row row-grid align-items-center">
+                    <div class="col-md-6">
+                        <div class="card bg-default shadow border-0">
+                            <img v-lazy="'img/theme/img-2-1200x1000.jpg'" class="card-img-top">
+                            <blockquote class="card-blockquote">
+                                <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95"
+                                     class="svg-bg">
+                                    <polygon points="0,52 583,95 0,95" class="fill-default"></polygon>
+                                    <polygon points="0,42 583,95 683,0 0,95" opacity=".2" class="fill-default"></polygon>
+                                </svg>
+                                <h4 class="display-3 font-weight-bold text-white">Design Philosophy</h4>
+                                <p class="lead text-italic text-white">On-chain verify, off-chain calculate <br> PoW, UTXO <br> Layered blockchain </p>
+                            </blockquote>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="pl-md-5">
+                            <icon name="ni ni-world" class="mb-5" size="lg" type="warning" shadow rounded></icon>
+
+                            <h3>Awesome Features</h3>
+                            <p class="lead">You can customize encryption algorithm, which may help to unlock new scenarios and enable new possibilities of blockchain.</p>
+                            <p class="lead">You can use any kind of programming language which can be compiled into RISC-V to write smart contract on CKB.</p>
+                            <p class="lead">You can use smart contracts flexibly, for example to achieve the “use-then-deploy” of code.</p>
+                            <p class="lead">Ownership of assets on CKB is always in hands of users, which facilitates stacking between different codes.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div style="height:100px"></div>
         <section class="section section-shaped my-0 overflow-hidden">
             <div class="shape shape-style-3 shape-skew">
                 <span></span>
