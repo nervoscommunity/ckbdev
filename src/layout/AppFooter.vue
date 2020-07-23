@@ -30,7 +30,7 @@
                 <div class="col-md-6">
                     <ul class="nav nav-footer justify-content-end">
                         <li class="nav-item">
-                            <a href="https://www.creative-tim.com" class="nav-link" target="_blank" rel="noopener">Nervos</a>
+                            <a href="https://www.nervos.org/" class="nav-link" target="_blank" rel="noopener">Nervos</a>
                         </li>
                     </ul>
                 </div>
