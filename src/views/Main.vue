@@ -17,7 +17,7 @@
                         <div class="row">
                             <div class="col-lg-8">
                                 <p class="display-3 text-white" style="font-size:66px">Hack on CKB
-                                    <span style="font-size:50px">Let's make some noice on the fantastic platform</span>
+                                    <span style="font-size:50px">Let's make some noise on the fantastic platform</span>
                                 </p>
                                 <p class="lead  text-white"><b>The first hackathon on CKB from August 15th to August 23rd</b></p>
                                 <div class="btn-wrapper">
