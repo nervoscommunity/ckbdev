@@ -47,7 +47,7 @@
                                     <icon name="ni ni-spaceship" type="primary" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-primary text-uppercase"><b>PW Core</b></h6>
-                                    <p class="description mt-3"><b>Build your dApps on CKB and run your dApps in Ethereum wallets, we are utilizing Etereum's infrastructure with magic.</b></p>
+                                    <p class="description mt-3"><b>Build your dApps on CKB and run your dApps in Ethereum wallets. We are utilizing Ethereum's infrastructure with magic.</b></p>
                                     <div>
                                         <badge type="primary" rounded>SDK</badge>
                                         <badge type="primary" rounded>JavaScript</badge>
@@ -69,7 +69,7 @@
                                     <icon name="ni ni-planet" type="success" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-success text-uppercase"><b>Lumos</b></h6>
-                                    <p class="description mt-3"><b>Lumos is a full featured JavaScript / TypeScript based dapp framework for Nervos CKB. It aims to simplify dapp development on Nervos CKB.</b></p>
+                                    <p class="description mt-3"><b>Lumos is a full featured JavaScript / TypeScript based dApp framework for Nervos CKB. It aims to simplify dApp development on Nervos CKB.</b></p>
                                     <div>
                                         <badge type="success" rounded>SDK</badge>
                                         <badge type="success" rounded>JavaScript</badge>
@@ -119,7 +119,7 @@
                                     <icon name="ni ni-palette" type="default" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-default text-uppercase"><b>CKB Studio</b></h6>
-                                    <p class="description mt-3"><b>CKB Studio is an IDE to develop CKB scripts for Nervos blockchain. It includes CKB compiler, block explorer, node and miner for local dev chain, Aggron testnet and the CKB mainnet.</b></p>
+                                    <p class="description mt-3"><b>CKB Studio is an IDE to develop CKB scripts for CKB. It includes a CKB compiler, block explorer, node and miner for local dev chain, Aggron testnet and the CKB mainnet.</b></p>
                                     <div>
                                         <badge type="default" rounded>IDE</badge>
                                         <badge type="default" rounded>Mac</badge>
@@ -138,7 +138,7 @@
                                     <icon name="ni ni-istanbul" type="danger" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-danger text-uppercase"><b>Polyjuice</b></h6>
-                                    <p class="description mt-3"><b>Polyjuice, which is an Ethereum compatible layer on top of Nervos CKB. By polyjuice we want to showcase that it is perfectly possible to use account model on Nervos CKB.</b></p>
+                                    <p class="description mt-3"><b>Polyjuice is an Ethereum-compatible layer on top of Nervos CKB. With Polyjuice, we want to showcase that it is perfectly possible to use the account model on Nervos CKB.</b></p>
                                     <div>
                                         <badge type="danger" rounded>Ethereum</badge>
                                         <badge type="danger" rounded>Account</badge>
@@ -154,7 +154,7 @@
                                     <icon name="ni ni-laptop" type="info" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-info text-uppercase"><b>Keypering</b></h6>
-                                    <p class="description mt-3"><b>Keypering ia a Nervos CKB desktop wallet prototype for dApp interaction.</b></p>
+                                    <p class="description mt-3"><b>Keypering ia a Nervos CKB desktop wallet prototype, for dApp interaction.</b></p>
                                     <div>
                                         <badge type="info" rounded>Desktop Wallet</badge>
                                         <badge type="info" rounded>Keyper</badge>
@@ -233,7 +233,7 @@
                             </div>
                             <div class="pl-4">
                                 <h4 class="display-3 text-white">Useful Materials</h4>
-                                <p class="text-white">We have prepared some RFCs and blogs for you, they may not help you to create your product quickly, but when you have troubles in programming, you can come over and see if there's something you need here! </p>
+                                <p class="text-white">We have prepared a list of RFCs and blogs for you. While these are not quick start guides, if you run into some trouble in programming, come over and see if there's something you need here! </p>
                             </div>
                         </div>
                         <card shadow class="shadow-lg--hover mt-5">
@@ -293,7 +293,7 @@
                                     <polygon points="0,42 583,95 683,0 0,95" opacity=".2" class="fill-default"></polygon>
                                 </svg>
                                 <h4 class="display-3 font-weight-bold text-white">Design Philosophy</h4>
-                                <p class="lead text-italic text-white">On-chain verify, off-chain calculate <br> PoW, UTXO <br> Layered blockchain </p>
+                                <p class="lead text-italic text-white">On-chain verification, off-chain calculation <br> PoW, UTXO model <br> Layered blockchain </p>
                             </blockquote>
                         </div>
                     </div>
@@ -302,10 +302,10 @@
                             <icon name="ni ni-world" class="mb-5" size="lg" type="warning" shadow rounded></icon>
 
                             <h3>Awesome Features</h3>
-                            <p class="lead">You can customize encryption algorithm, which may help to unlock new scenarios and enable new possibilities of blockchain.</p>
-                            <p class="lead">You can use any kind of programming language which can be compiled into RISC-V to write smart contract on CKB.</p>
-                            <p class="lead">You can use smart contracts flexibly, for example to achieve the “use-then-deploy” of code.</p>
-                            <p class="lead">Ownership of assets on CKB is always in hands of users, which facilitates stacking between different codes.</p>
+                            <p class="lead">You can customize cryptographic algorithms, which may help to unlock new scenarios and enable new possibilities of blockchains.</p>
+                            <p class="lead">You can use any kind of programming language that can be compiled into RISC-V to write smart contracts on CKB.</p>
+                            <p class="lead">You can use smart contracts flexibly, for example to create “use-then-deploy” code.</p>
+                            <p class="lead">Ownership of assets on CKB is always in hands of users, which facilitates stacking between different code.</p>
                         </div>
                     </div>
                 </div>
@@ -323,31 +323,31 @@
                 <div class="row text-center justify-content-center">
                     <div class="col-lg-10">
                         <h1 class="display-3">Let's build something amazing on CKB</h1>
-                        <p class="lead">Here is some great ideas</p>
+                        <p class="lead">Here are some great ideas</p>
                     </div>
                 </div>
                 <div class="row row-grid mt-5 text-center">
                     <div class="col-lg-6">
                         <icon name="ni ni-settings" size="lg" gradient="white" shadow round color="primary"></icon>
                         <h3 class="mt-3">DeFi</h3>
-                        <p class="mt-3 lead"><b>DeFi is one of the hottest topics in the blockchain
+                        <p class="mt-3 lead"><b>DeFi is one of the hottest topics in the blockchain ecosystem
                             , but we should notice <a href="https://medium.com/nervosnetwork/the-smart-contract-risk-in-defi-c28e53b92f03">the risks of smart contracts in DeFi</a>.
-                            On CKB, the state is a first-class citizen, by decentralizing the state of a token, the damage of a bug in asset definition can be controlled.</b></p>
+                            On CKB, the state is a first-class citizen. By decentralizing the state of a token, the damage of a bug in an asset definition can be controlled.</b></p>
                     </div>
                     <div class="col-lg-6">
                         <icon name="ni ni-ruler-pencil" size="lg" gradient="white" shadow round color="primary"></icon>
                         <h3 class="mt-3">NFT</h3>
                         <p class="mt-3 lead"><b>NFT is a very imaginative direction that encompasses collectibles,
-                            crypto assets such as CryptoKitty, virtual art, digitization of traditional assets,
-                            etc., and we are looking forward to see more experimentation and possibilities on CKB.</b></p>
+                            crypto assets such as CryptoKitties, virtual art, digitization of traditional assets,
+                            etc., and we are looking forward to seeing more experimentation and possibilities on CKB.</b></p>
                     </div>
                     <div style="height:400px"></div>
                     <div class="col-lg-6">
                         <icon name="ni ni-atom" size="lg" gradient="white" shadow round color="primary"></icon>
                         <h3 class="mt-3">Open Tx</h3>
                         <p class="mt-3 lead"><b><a href="https://talk.nervos.org/t/open-tx-protocol-brainstorm-1-otx-in-general/4010">Open Transaction (OTX)</a> is a deliberately constructed portion of transaction,
-                             which can be combined together to form a valid transaction. <a href="https://talk.nervos.org/t/open-tx-protocol-brainstorm-3-scenarios-analyzing-on-ckb/4144">With the Open Tx we can realize</a> flexible transaction fee charge model,
-                             Ethereum like smart contract invoking, layer 1.5 DEX, assets discounting, etc.</b></p>
+                             which can be combined with other portions to form a valid transaction. <a href="https://talk.nervos.org/t/open-tx-protocol-brainstorm-3-scenarios-analyzing-on-ckb/4144">With Open Tx's we can realize</a> flexible transaction fee payment models,
+                             Ethereum-like smart contract invocation, layer 1.5 DEX, asset discounting, etc.</b></p>
                     </div>
                 </div>
             </div>
