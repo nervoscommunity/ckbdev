@@ -78,13 +78,8 @@
                                     <ul class="py-1">
                                         <li><a href="https://docs.nervos.org/docs/reference/introduction">Nervos Docs -
                                                 Reference</a></li>
-                                        <li><a>Video Lecture: An Introduction to Building Dapps with Nervos CKB</a></li>
-                                        <li><a
-                                                href="https://xuejie.space/2019_07_05_introduction_to_ckb_script_programming_validation_model/">Introduction
-                                                to CKB Script Programming 1: Validation Model</a></li>
-                                        <li><a
-                                                href="https://xuejie.space/2019_07_13_introduction_to_ckb_script_programming_script_basics/">Introduction
-                                                to CKB Script Programming 2: Script Basics</a></li>
+                                        <li><a href="https://youtu.be/iVjccs3z5q0">Video Lecture: Dapps with CKB Workshop - Lecture 1: Introduction (Chinese + English Subtitles)</a></li>
+                                        <li><a href="https://youtu.be/6nYyYikSZj0">Video Lecture: Dapps with CKB Workshop - Lecture 1: Introduction (English)</a></li>
                                         <li><a href="https://www.youtube.com/watch?v=HyYXzEIdF90">Nervos YouTube -
                                                 Programming CKB Part 1</a></li>
                                         <li><a href="https://www.youtube.com/watch?v=Co-rzOhwuHs">Nervos YouTube -
@@ -95,19 +90,19 @@
                                     <ul class="py-1">
                                         <li><a
                                                 href="https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0009-vm-syscalls/0009-vm-syscalls.md">Nervos
-                                                RFCs - VM Syscalls</a></li>
+                                                RFCs - VM Syscalls</a> - Smart Contract related system calls</li>
                                         <li><a
                                                 href="https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0019-data-structures/0019-data-structures.md">Nervos
-                                                RFCs - Data Structures</a></li>
+                                                RFCs - Data Structures</a> - Data structures for a Cell, Script, Transaction, and Block</li>
                                         <li><a
                                                 href="https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0021-ckb-address-format/0021-ckb-address-format.md">Nervos
-                                                RFCs - CKB Address Format</a></li>
+                                                RFCs - CKB Address Format</a> - How Nervos addresses are encoded</li>
                                         <li><a
                                                 href="https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0022-transaction-structure/0022-transaction-structure.md">Nervos
-                                                RFCs - Transaction Structure</a></li>
+                                                RFCs - Transaction Structure</a> - How a transaction is structured</li>
                                         <li><a
                                                 href="https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0024-ckb-system-script-list/0024-ckb-system-script-list.md">Nervos
-                                                RFCs - CKB System Scripts</a></li>
+                                                RFCs - CKB System Scripts</a> - The hard-coded scripts available on Nervos CKB</li>
 
                                     </ul>
 
@@ -142,6 +137,8 @@
                                             <li><a
                                                     href="https://medium.com/nervos-ckb-israel/collection-of-ckb-studio-tutorials-9ffd573894">Tutorials</a>
                                             </li>
+                                            <li><a href="https://www.youtube.com/watch?v=lOxXrVIfT2Y">Video Tutorial: How to Use CKB Studio</a></li>
+
                                         </ul>
                                         <li><a href="https://github.com/nervosnetwork/capsule">Capsule</a></li>
                                         <ul>
@@ -153,7 +150,8 @@
                                                     Library Documentation</a></li>
                                             <li><a href="https://docs.nervos.org/docs/labs/sudtbycapsule">Tutorial:
                                                     Write an SUDT in Capsule</a></li>
-                                            <li><a>Video Lecture: On-Chain Scripts with Capsule</a></li>
+                                            <li><a href="https://youtu.be/NcN3NiBuJbo">Video Lecture: Dapps with CKB workshop - Lecture 2: On-chain Scripts with Capsule (Chinese + English Subtitles)</a></li>
+                                            <li><a href="https://youtu.be/ysUbx4FAKlE">Video Tutorial: Understanding the Token Sale Lock Script (English)</a></li>
                                         </ul>
                                         <li><a href="https://github.com/nervosnetwork/lumos">Lumos</a></li>
                                         <ul>
@@ -167,12 +165,13 @@
                                             <li><a href="https://docs.lay2.dev/">Documentation</a></li>
                                             <li><a href="https://github.com/lay2dev/simplestdapp">Demo Project: Simplest
                                                     Dapp</a></li>
-                                            <li><a>Video Tutorial: Building the Simplest Dapp with PW-Core</a></li>
+                                            <li><a href="https://www.youtube.com/watch?v=NmMRM4PoE08">Video Tutorial: PW-Core Programming Walkthrough (Chinese)</a></li>
+                                            <li><a href="https://www.youtube.com/watch?v=E2AYuRaeP9Q">Video Tutorial: PW-Core Programming Walkthrough (Chinese)</a></li>
                                         </ul>
                                         <li><a>Keyper + Keypering</a></li>
                                         <ul>
-                                            <li><a>Documentation</a></li>
-                                            <li><a>Video Tutorial: Managing Private Keys with Keypering</a></li>
+                                            <li><a href="https://ezcook.de/keypering/#/manual">Documentation</a></li>
+                                            <li><a href="https://www.youtube.com/watch?v=i-gQ0enK5cY">Video Tutorial: How to Develop a CKB Dapp with Keypering (Chinese + English Subtitles)</a></li>
                                         </ul>
                                     </ul>
 
@@ -211,13 +210,16 @@
                                                 UDT Type Script (C)</a></li>
                                         <li><a href="https://github.com/jjyr/my-sudt">Simple UDT Type Script (Rust +
                                                 Capsule)</a></li>
+                                        <ul>
+                                            <li><a href="https://docs.nervos.org/docs/labs/sudtbycapsule">Tutorial: Writing an SUDT in Capsule</a></li>
+                                        </ul>
                                         <li><a href="https://github.com/jordanmack/token-sale">Token Sale Lock Script
                                                 (Rust + Capsule)</a></li>
                                         <ul>
                                             <li><a
                                                     href="https://github.com/jordanmack/token-sale/blob/master/README.md">Documentation</a>
                                             </li>
-                                            <li><a>Video Tutorial: Understanding the Token Sale Lock Script</a></li>
+                                            <li><a href="https://youtu.be/ysUbx4FAKlE">Video Tutorial: Understanding the Token Sale Lock Script (English) (https://youtu.be/ysUbx4FAKlE) </a></li>
                                         </ul>
                                         <li><a
                                                 href="https://github.com/nervosnetwork/ckb-anyone-can-pay/blob/master/c/anyone_can_pay.c">Anyone
@@ -230,7 +232,7 @@
                                                     href="https://talk.nervos.org/t/open-tx-protocol-brainstorm-4-an-implementation-proposal/4427">Nervos
                                                     Talk - Open Transaction Four Part</a></li>
                                         </ul>
-                                        <li><a href="https://www.youtube.com/watch?v=Co-rzOhwuHs">NFT Type Script
+                                        <li><a>NFT Type Script
                                                 (C)</a></li>
                                     </ul>
 
