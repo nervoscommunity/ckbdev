@@ -168,7 +168,7 @@
                                             <li><a href="https://www.youtube.com/watch?v=NmMRM4PoE08">Video Tutorial: PW-Core Programming Walkthrough (Chinese)</a></li>
                                             <li><a href="https://www.youtube.com/watch?v=E2AYuRaeP9Q">Video Tutorial: PW-Core Programming Walkthrough (Chinese)</a></li>
                                         </ul>
-                                        <li><a>Keyper + Keypering</a></li>
+                                        <li><a href="https://github.com/nervosnetwork/keyper">Keyper</a> +<a href="https://github.com/nervosnetwork/keypering">Keypering</a></li>
                                         <ul>
                                             <li><a href="https://ezcook.de/keypering/#/manual">Documentation</a></li>
                                             <li><a href="https://www.youtube.com/watch?v=i-gQ0enK5cY">Video Tutorial: How to Develop a CKB Dapp with Keypering (Chinese + English Subtitles)</a></li>
@@ -176,6 +176,7 @@
                                     </ul>
 
                                     <h6 class="mt-4 text-warning">Testnet Funds</h6>
+                                    <a>When building on the Aggron Testnet, free tVideo Tutorial: How to Develop a CKB Dapp with Keypering (Chinese + English Subtitles)estnet CKB can be obtained from this faucet.</a>
                                     <ul class="py-1">
                                         <li><a href="https://faucet.nervos.org/">Nervos Aggron Faucet</a></li>
                                     </ul>
