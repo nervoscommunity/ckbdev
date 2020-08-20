@@ -159,7 +159,7 @@
                                         <badge type="info" rounded>Desktop Wallet</badge>
                                         <badge type="info" rounded>Keyper</badge>
                                     </div>
-                                    <base-button tag="a" icon="fa fa-github" href="https://github.com/liusong1111/keypering" type="info" class="mt-4" target="_blank">
+                                    <base-button tag="a" icon="fa fa-github" href="https://github.com/nervosnetwork/keypering" type="info" class="mt-4" target="_blank">
                                         GitHub
                                     </base-button>
                                     <base-button tag="a" icon="fa fa-medium" href="https://medium.com/nervosnetwork/introducing-keyper-for-cell-management-on-nervos-8e5a8a42fa5f" type="info" class="mt-4" target="_blank">
