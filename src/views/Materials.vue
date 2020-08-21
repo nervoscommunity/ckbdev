@@ -173,6 +173,11 @@
                                             <li><a href="https://ezcook.de/keypering/#/manual">Documentation</a></li>
                                             <li><a href="https://www.youtube.com/watch?v=i-gQ0enK5cY">Video Tutorial: How to Develop a CKB Dapp with Keypering (Chinese + English Subtitles)</a></li>
                                         </ul>
+                                        <li><a href="https://github.com/rebase-network/synapse-extension">Synapse Web Wallet</a></li>
+                                        <ul>
+                                            <li><a href="https://github.com/rebase-network/synapse-extension/tree/master/docs">Documentation</a></li>
+                                            <li><a href="https://github.com/rebase-network/simplestdapp">Video Tutorial: How to Develop a CKB Dapp with Keypering (Chinese + English Subtitles)</a></li>
+                                        </ul>
                                     </ul>
 
                                     <h6 class="mt-4 text-warning">Testnet Funds</h6>
@@ -233,14 +238,14 @@
                                                     href="https://talk.nervos.org/t/open-tx-protocol-brainstorm-4-an-implementation-proposal/4427">Nervos
                                                     Talk - Open Transaction Four Part</a></li>
                                         </ul>
-                                        <li><a>NFT Type Script
-                                                (C)</a></li>
+                                        <li><a href="https://github.com/nervosnetwork/dapps-on-ckb-workshop-code/tree/master/nft-validator">NFT Type Script (Rust + Capsule)</a></li>
                                     </ul>
 
                                     <h6 class="mt-4 text-warning">Example Dapps</h6>
                                     <ul class="py-1">
-                                        <li><a>ICO Token Sale Dapp</a></li>
+                                        <li><a href="https://github.com/tspoff/hello-lumos">Hello Lumos Dapp Template</a></li>
                                         <li><a href="https://github.com/lay2dev/simplestdapp">Simplest Dapp</a></li>
+                                        <li><a href="https://github.com/rebase-network/simplestdapp">Simplest Dapp + Synapse</a></li>
                                     </ul>
                                 </div>
 
@@ -289,7 +294,8 @@
                                                 href="https://expressjs.com/en/starter/installing.html">Express.js</a>
                                         </li>
                                         <li>Dapp Wallet: <a href="https://github.com/lay2dev/pw-core">PW-SDK</a> + <a
-                                                href="https://metamask.io/">MetaMask</a></li>
+                                                href="https://metamask.io/">MetaMask</a> or <a href="https://github.com/nervosnetwork/keypering">Keypering</a> or
+                                                <a href="https://github.com/rebase-network/synapse-extension">Synapse Web Wallet</a></li>
                                         <li>Smart Contract Scripts: <a
                                                 href="https://github.com/nervosnetwork/capsule">Capsule</a></li>
                                     </ul>
