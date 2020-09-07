@@ -166,7 +166,7 @@
                                             <li><a href="https://github.com/lay2dev/simplestdapp">Demo Project: Simplest
                                                     Dapp</a></li>
                                             <li><a href="https://www.youtube.com/watch?v=NmMRM4PoE08">Video Tutorial: PW-Core Programming Walkthrough (Chinese)</a></li>
-                                            <li><a href="https://www.youtube.com/watch?v=E2AYuRaeP9Q">Video Tutorial: PW-Core Programming Walkthrough (Chinese)</a></li>
+                                            <li><a href="https://www.youtube.com/watch?v=E2AYuRaeP9Q">Video Tutorial: PW-Core Programming Walkthrough (English)</a></li>
                                         </ul>
                                         <li><a href="https://github.com/nervosnetwork/keyper">Keyper</a> +<a href="https://github.com/nervosnetwork/keypering">Keypering</a></li>
                                         <ul>
